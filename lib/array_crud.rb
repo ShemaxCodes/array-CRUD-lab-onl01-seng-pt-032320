@@ -14,6 +14,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   my_array = ["wow", "Dog", "Fish", "Cow"]
+  my_array.unshift("Fish")
 
 def remove_element_from_end_of_array(array)
   
