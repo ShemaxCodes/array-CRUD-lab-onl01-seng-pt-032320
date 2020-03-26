@@ -30,7 +30,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   my_array = ["Fish"]
-  my_array.delete
+  my_array.delete_at(0)
   
 end
 
